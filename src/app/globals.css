@@ -1,0 +1,113 @@
+@import "tailwindcss";
+
+/* ============================================================
+   TrainTrack Design Tokens — Tailwind v4 CSS Theme
+   ============================================================ */
+@theme inline {
+  /* Colors */
+  --color-bg: #0A0A0C;
+  --color-surface: #131315;
+  --color-surface-hover: #1A1A1C;
+  --color-border-subtle: #1E1E20;
+  --color-border-hover: #333333;
+
+  --color-accent-orange: #FF5C00;
+  --color-accent-blue: #4A90D9;
+  --color-accent-green: #34C759;
+  --color-accent-gold: #FFD60A;
+
+  --color-text-primary: #FFFFFF;
+  --color-text-body: #777777;
+  --color-text-muted: #444444;
+
+  /* Fonts */
+  --font-display: var(--font-outfit);
+  --font-body: var(--font-inter);
+
+  /* Spacing & Radius */
+  --radius-card: 16px;
+  --radius-pill: 100px;
+  --radius-logo: 8px;
+}
+
+/* ============================================================
+   Global Styles
+   ============================================================ */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-text-primary);
+  font-family: var(--font-body), system-ui, sans-serif;
+}
+
+/* Grain texture overlay utility */
+.grain::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
+  pointer-events: none;
+  opacity: 0.6;
+}
+
+/* Gradient text utility */
+.gradient-text {
+  background: linear-gradient(90deg, var(--color-accent-orange), var(--color-accent-gold));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Scroll indicator float animation */
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(8px); }
+}
+.animate-float {
+  animation: float 2s ease-in-out infinite;
+}
+
+/* Staggered hero entrance */
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.animate-fade-up {
+  animation: fade-up 0.8s ease-out forwards;
+  opacity: 0;
+}
+.delay-100 { animation-delay: 0.1s; }
+.delay-200 { animation-delay: 0.2s; }
+.delay-300 { animation-delay: 0.3s; }
+.delay-400 { animation-delay: 0.4s; }
+
+/* Feature card top-edge glow on hover */
+.feature-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60%;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--card-accent, var(--color-accent-orange)),
+    transparent
+  );
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.feature-card:hover::before {
+  opacity: 1;
+}
