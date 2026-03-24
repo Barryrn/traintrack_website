@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "TrainTrack \u2014 Trainiere hart. Tracke alles.",
+    "description": "Workouts, Ern\u00e4hrung und K\u00f6rperfortschritt \u2014 wundersch\u00f6n vereint in einer App, die \u00fcberall funktioniert, auch offline."
+  },
+  "navbar": {
+    "features": "Funktionen",
+    "home": "Startseite"
+  },
+  "hero": {
+    "badge": "Alles in einer App",
+    "headlineTop": "Trainiere hart.",
+    "headlineBottom": "Tracke alles.",
+    "subtitle": "Workouts, Ern\u00e4hrung und K\u00f6rperfortschritt \u2014 wundersch\u00f6n vereint in einer App, die \u00fcberall funktioniert, auch offline.",
+    "scroll": "Scrollen"
+  },
+  "features": {
+    "sectionTag": "Alles was du brauchst",
+    "sectionSubtitle": "Drei S\u00e4ulen der Fitness. Ein einheitliches Erlebnis.",
+    "workout": {
+      "title": "Trainingsplanung",
+      "description": "Erstelle individuelle Trainingspl\u00e4ne oder w\u00e4hle aus Vorlagen. Logge jeden Satz, jede Wiederholung und jedes Gewicht in Echtzeit.",
+      "tags": ["Individuelle Pl\u00e4ne", "Live-Tracking", "Supers\u00e4tze"]
+    },
+    "nutrition": {
+      "title": "Smarte Ern\u00e4hrung",
+      "description": "Tracke Makros und Mahlzeiten mit KI-gest\u00fctztem Food-Scanning. Erstelle Rezepte und erreiche deine t\u00e4glichen Ziele.",
+      "tags": ["KI Food-Scan", "Makro-Tracking", "Rezepte"]
+    },
+    "analytics": {
+      "title": "Fortschrittsanalyse",
+      "description": "Visualisiere deine Erfolge mit Diagrammen, pers\u00f6nlichen Rekorden und K\u00f6rpermassen im Zeitverlauf.",
+      "tags": ["Diagramme", "Pers\u00f6nliche Rekorde", "Trends"]
+    }
+  },
+  "footer": {
+    "copyright": "\u00a9 2026 TrainTrack",
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen"
+  },
+  "common": {
+    "backToHome": "\u2190 Zur\u00fcck zur Startseite"
+  },
+  "privacy": {
+    "title": "Datenschutzrichtlinie",
+    "lastUpdated": "Zuletzt aktualisiert: M\u00e4rz 2026",
+    "sections": {
+      "intro": {
+        "heading": "Einleitung",
+        "content": "TrainTrack (\"wir\", \"unser\" oder \"uns\") verpflichtet sich, Ihre Privatsph\u00e4re zu sch\u00fctzen. Diese Datenschutzrichtlinie erkl\u00e4rt, wie wir Ihre Informationen erfassen, verwenden, offenlegen und sch\u00fctzen, wenn Sie unsere Fitness-Tracking-Anwendung nutzen."
+      },
+      "dataCollection": {
+        "heading": "Welche Daten wir erfassen",
+        "content": "Wir erfassen Informationen, die Sie direkt bereitstellen, darunter: Trainingsprotokoll (\u00dcbungen, S\u00e4tze, Wiederholungen, Gewichte), Ern\u00e4hrungsdaten (Mahlzeiten, Makros, Kalorien), K\u00f6rpermasse und Fortschrittsfotos, Kontoinformationen (E-Mail, Anzeigename) und Ger\u00e4teinformationen f\u00fcr die Offline-Synchronisierung."
+      },
+      "dataUse": {
+        "heading": "Wie wir Ihre Daten verwenden",
+        "content": "Ihre Daten werden verwendet, um: den TrainTrack-Dienst bereitzustellen und zu pflegen, Ihre Fitnessdaten ger\u00e4te\u00fcbergreifend zu synchronisieren, Fortschrittsanalysen und pers\u00f6nliche Rekorde zu erstellen, unsere App zu verbessern und neue Funktionen zu entwickeln sowie dienstbezogene Benachrichtigungen zu senden."
+      },
+      "dataStorage": {
+        "heading": "Datenspeicherung & Sicherheit",
+        "content": "TrainTrack arbeitet offline-first. Ihre Daten werden lokal auf Ihrem Ger\u00e4t gespeichert und optional mit unseren sicheren Cloud-Servern synchronisiert. Wir verwenden branchen\u00fcbliche Verschl\u00fcsselung f\u00fcr Daten w\u00e4hrend der \u00dcbertragung und im Ruhezustand."
+      },
+      "thirdParty": {
+        "heading": "Drittanbieter-Dienste",
+        "content": "Wir k\u00f6nnen Drittanbieter-Dienste f\u00fcr Analysen, Absturzberichte und KI-gest\u00fctzte Lebensmittelerkennung nutzen. Diese Dienste erhalten nur die f\u00fcr ihre Funktion mindestens erforderlichen Daten."
+      },
+      "rights": {
+        "heading": "Ihre Rechte",
+        "content": "Sie haben das Recht: auf Ihre pers\u00f6nlichen Daten zuzugreifen, sie zu korrigieren oder zu l\u00f6schen, Ihre Daten in einem portablen Format zu exportieren, die optionale Datenerhebung abzulehnen und Informationen \u00fcber die Verarbeitung Ihrer Daten anzufordern."
+      },
+      "contact": {
+        "heading": "Kontakt",
+        "content": "Wenn Sie Fragen zu dieser Datenschutzrichtlinie haben, kontaktieren Sie uns bitte unter privacy@traintrack.app."
+      }
+    }
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "lastUpdated": "Zuletzt aktualisiert: M\u00e4rz 2026",
+    "sections": {
+      "acceptance": {
+        "heading": "Annahme der Bedingungen",
+        "content": "Durch den Zugriff auf oder die Nutzung von TrainTrack stimmen Sie diesen Nutzungsbedingungen zu. Wenn Sie nicht zustimmen, verwenden Sie die Anwendung bitte nicht."
+      },
+      "description": {
+        "heading": "Dienstbeschreibung",
+        "content": "TrainTrack ist eine Fitness-Tracking-Anwendung, mit der Sie Workouts protokollieren, Ern\u00e4hrung verfolgen, K\u00f6rperfortschritte \u00fcberwachen und Ihre Fitnessreise analysieren k\u00f6nnen. Die App funktioniert offline und synchronisiert Daten zwischen Ihren Ger\u00e4ten."
+      },
+      "accounts": {
+        "heading": "Benutzerkonten",
+        "content": "Sie sind f\u00fcr die Sicherheit Ihrer Kontodaten verantwortlich. Sie m\u00fcssen genaue Informationen angeben und \u00c4nderungen umgehend aktualisieren. Sie sind f\u00fcr alle Aktivit\u00e4ten unter Ihrem Konto verantwortlich."
+      },
+      "acceptableUse": {
+        "heading": "Zul\u00e4ssige Nutzung",
+        "content": "Sie stimmen zu, den Dienst nicht f\u00fcr rechtswidrige Zwecke zu nutzen, keinen unbefugten Zugriff auf unsere Systeme zu erlangen, die Nutzung des Dienstes durch andere Benutzer nicht zu beeintr\u00e4chtigen, keine sch\u00e4dlichen Inhalte oder Code hochzuladen und die Anwendung nicht zu reverse-engineeren."
+      },
+      "health": {
+        "heading": "Gesundheitshinweis",
+        "content": "TrainTrack ist ein Fitness-Tracking-Tool, kein medizinisches Ger\u00e4t. Konsultieren Sie immer einen Arzt, bevor Sie ein Trainings- oder Ern\u00e4hrungsprogramm beginnen. Wir sind nicht verantwortlich f\u00fcr Verletzungen oder Gesundheitsprobleme, die aus in der App protokollierten Workouts resultieren."
+      },
+      "ip": {
+        "heading": "Geistiges Eigentum",
+        "content": "Die TrainTrack-Anwendung, einschliesslich ihres Designs, Codes und Inhalts, geh\u00f6rt uns und ist durch Gesetze zum Schutz des geistigen Eigentums gesch\u00fctzt. Ihre Trainingsdaten und pers\u00f6nlichen Inhalte bleiben Ihr Eigentum."
+      },
+      "termination": {
+        "heading": "K\u00fcndigung",
+        "content": "Wir k\u00f6nnen Ihren Zugang zu TrainTrack jederzeit bei Verstoss gegen diese Bedingungen aussetzen oder k\u00fcndigen. Sie k\u00f6nnen Ihr Konto jederzeit l\u00f6schen. Bei K\u00fcndigung werden Ihre Daten gem\u00e4ss unserer Datenschutzrichtlinie gel\u00f6scht."
+      },
+      "liability": {
+        "heading": "Haftungsbeschr\u00e4nkung",
+        "content": "TrainTrack wird \"wie besehen\" ohne jegliche Garantien bereitgestellt. Wir haften nicht f\u00fcr indirekte, zuf\u00e4llige oder Folgesch\u00e4den, die aus Ihrer Nutzung des Dienstes entstehen."
+      },
+      "changes": {
+        "heading": "\u00c4nderungen der Bedingungen",
+        "content": "Wir k\u00f6nnen diese Nutzungsbedingungen von Zeit zu Zeit aktualisieren. Wir werden Sie \u00fcber wesentliche \u00c4nderungen \u00fcber die App oder per E-Mail informieren. Die fortgesetzte Nutzung nach \u00c4nderungen gilt als Zustimmung."
+      },
+      "contact": {
+        "heading": "Kontakt",
+        "content": "Wenn Sie Fragen zu diesen Nutzungsbedingungen haben, kontaktieren Sie uns bitte unter legal@traintrack.app."
+      }
+    }
+  }
+}

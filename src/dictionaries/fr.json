@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "TrainTrack — Entraîne-toi dur. Suis tout.",
+    "description": "Entraînements, nutrition et progrès corporel — magnifiquement réunis dans une application qui fonctionne partout, même hors ligne."
+  },
+  "navbar": {
+    "features": "Fonctionnalités",
+    "home": "Accueil"
+  },
+  "hero": {
+    "badge": "Tout-en-un Fitness",
+    "headlineTop": "Entraîne-toi dur.",
+    "headlineBottom": "Suis tout.",
+    "subtitle": "Entraînements, nutrition et progrès corporel — magnifiquement réunis dans une application qui fonctionne partout, même hors ligne.",
+    "scroll": "Défiler"
+  },
+  "features": {
+    "sectionTag": "Tout ce dont tu as besoin",
+    "sectionSubtitle": "Trois piliers du fitness. Une expérience unifiée.",
+    "workout": {
+      "title": "Planification d'entraînement",
+      "description": "Crée des plans d'entraînement personnalisés ou choisis parmi des modèles. Enregistre chaque série, répétition et poids en temps réel.",
+      "tags": ["Plans personnalisés", "Suivi en direct", "Super-séries"]
+    },
+    "nutrition": {
+      "title": "Nutrition intelligente",
+      "description": "Suis les macros et les repas grâce au scan alimentaire par IA. Crée des recettes et atteins tes objectifs quotidiens.",
+      "tags": ["Scan IA", "Suivi des macros", "Recettes"]
+    },
+    "analytics": {
+      "title": "Analyse des progrès",
+      "description": "Visualise tes gains avec des graphiques, des records personnels et des mensurations au fil du temps.",
+      "tags": ["Graphiques", "Records personnels", "Tendances"]
+    }
+  },
+  "footer": {
+    "copyright": "© 2026 TrainTrack",
+    "privacy": "Confidentialité",
+    "terms": "Conditions"
+  },
+  "common": {
+    "backToHome": "← Retour à l'accueil"
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "lastUpdated": "Dernière mise à jour : mars 2026",
+    "sections": {
+      "intro": {
+        "heading": "Introduction",
+        "content": "TrainTrack (« nous », « notre » ou « nos ») s'engage à protéger votre vie privée. Cette politique de confidentialité explique comment nous collectons, utilisons, divulguons et protégeons vos informations lorsque vous utilisez notre application de suivi fitness."
+      },
+      "dataCollection": {
+        "heading": "Informations que nous collectons",
+        "content": "Nous collectons les informations que vous fournissez directement, notamment : les journaux d'entraînement (exercices, séries, répétitions, poids), les données nutritionnelles (repas, macros, calories), les mensurations et photos de progrès, les informations de compte (e-mail, nom d'affichage) et les informations d'appareil pour la synchronisation hors ligne."
+      },
+      "dataUse": {
+        "heading": "Comment nous utilisons vos informations",
+        "content": "Vos données sont utilisées pour : fournir et maintenir le service TrainTrack, synchroniser vos données fitness entre appareils, générer des analyses de progrès et des records personnels, améliorer notre application et développer de nouvelles fonctionnalités, et envoyer des notifications liées au service."
+      },
+      "dataStorage": {
+        "heading": "Stockage et sécurité des données",
+        "content": "TrainTrack fonctionne en mode hors ligne d'abord. Vos données sont stockées localement sur votre appareil et éventuellement synchronisées avec nos serveurs cloud sécurisés. Nous utilisons un chiffrement conforme aux normes de l'industrie pour les données en transit et au repos."
+      },
+      "thirdParty": {
+        "heading": "Services tiers",
+        "content": "Nous pouvons utiliser des services tiers pour l'analyse, les rapports de crash et la reconnaissance alimentaire par IA. Ces services ne reçoivent que les données minimales nécessaires à leur fonctionnement."
+      },
+      "rights": {
+        "heading": "Vos droits",
+        "content": "Vous avez le droit de : accéder, corriger ou supprimer vos données personnelles, exporter vos données dans un format portable, refuser la collecte de données optionnelle, et demander des informations sur le traitement de vos données."
+      },
+      "contact": {
+        "heading": "Nous contacter",
+        "content": "Si vous avez des questions sur cette politique de confidentialité, veuillez nous contacter à privacy@traintrack.app."
+      }
+    }
+  },
+  "terms": {
+    "title": "Conditions d'utilisation",
+    "lastUpdated": "Dernière mise à jour : mars 2026",
+    "sections": {
+      "acceptance": {
+        "heading": "Acceptation des conditions",
+        "content": "En accédant ou en utilisant TrainTrack, vous acceptez d'être lié par ces conditions d'utilisation. Si vous n'êtes pas d'accord, veuillez ne pas utiliser l'application."
+      },
+      "description": {
+        "heading": "Description du service",
+        "content": "TrainTrack est une application de suivi fitness qui vous permet d'enregistrer des entraînements, suivre la nutrition, surveiller les progrès corporels et analyser votre parcours fitness. L'application fonctionne hors ligne et synchronise les données entre vos appareils."
+      },
+      "accounts": {
+        "heading": "Comptes utilisateurs",
+        "content": "Vous êtes responsable du maintien de la sécurité de vos identifiants de compte. Vous devez fournir des informations exactes et mettre à jour rapidement tout changement. Vous êtes responsable de toute activité sous votre compte."
+      },
+      "acceptableUse": {
+        "heading": "Utilisation acceptable",
+        "content": "Vous acceptez de ne pas : utiliser le service à des fins illégales, tenter d'obtenir un accès non autorisé à nos systèmes, interférer avec l'utilisation du service par d'autres utilisateurs, télécharger du contenu ou du code malveillant, ou procéder à de l'ingénierie inverse de l'application."
+      },
+      "health": {
+        "heading": "Avertissement santé",
+        "content": "TrainTrack est un outil de suivi fitness, pas un dispositif médical. Consultez toujours un professionnel de santé avant de commencer tout programme d'exercice ou de nutrition. Nous ne sommes pas responsables des blessures ou problèmes de santé résultant des entraînements enregistrés dans l'application."
+      },
+      "ip": {
+        "heading": "Propriété intellectuelle",
+        "content": "L'application TrainTrack, y compris son design, son code et son contenu, nous appartient et est protégée par les lois sur la propriété intellectuelle. Vos données d'entraînement et votre contenu personnel restent les vôtres."
+      },
+      "termination": {
+        "heading": "Résiliation",
+        "content": "Nous pouvons suspendre ou résilier votre accès à TrainTrack à tout moment en cas de violation de ces conditions. Vous pouvez supprimer votre compte à tout moment. En cas de résiliation, vos données seront supprimées conformément à notre politique de confidentialité."
+      },
+      "liability": {
+        "heading": "Limitation de responsabilité",
+        "content": "TrainTrack est fourni « tel quel » sans garantie d'aucune sorte. Nous ne serons pas responsables des dommages indirects, accessoires ou consécutifs découlant de votre utilisation du service."
+      },
+      "changes": {
+        "heading": "Modifications des conditions",
+        "content": "Nous pouvons mettre à jour ces conditions d'utilisation de temps à autre. Nous vous informerons des changements importants via l'application ou par e-mail. L'utilisation continue après les modifications constitue une acceptation."
+      },
+      "contact": {
+        "heading": "Nous contacter",
+        "content": "Si vous avez des questions sur ces conditions d'utilisation, veuillez nous contacter à legal@traintrack.app."
+      }
+    }
+  }
+}

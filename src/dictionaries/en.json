@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "title": "TrainTrack — Train Hard. Track Everything.",
+    "description": "Workouts, nutrition, and body progress — beautifully unified in one app that works everywhere, even offline."
+  },
+  "navbar": {
+    "features": "Features",
+    "home": "Home"
+  },
+  "hero": {
+    "badge": "All-In-One Fitness",
+    "headlineTop": "Train Hard.",
+    "headlineBottom": "Track Everything.",
+    "subtitle": "Workouts, nutrition, and body progress — beautifully unified in one app that works everywhere, even offline.",
+    "scroll": "Scroll"
+  },
+  "features": {
+    "sectionTag": "Everything You Need",
+    "sectionSubtitle": "Three pillars of fitness. One unified experience.",
+    "workout": {
+      "title": "Workout Planning",
+      "description": "Build custom training plans or choose from templates. Log every set, rep, and weight in real time.",
+      "tags": ["Custom Plans", "Live Logging", "Supersets"]
+    },
+    "nutrition": {
+      "title": "Smart Nutrition",
+      "description": "Track macros and meals with AI-powered food scanning. Create recipes and hit your daily targets.",
+      "tags": ["AI Food Scan", "Macro Tracking", "Recipes"]
+    },
+    "analytics": {
+      "title": "Progress Analytics",
+      "description": "Visualize your gains with charts, personal records, and body measurements over time.",
+      "tags": ["Charts", "Personal Records", "Trends"]
+    }
+  },
+  "footer": {
+    "copyright": "© 2026 TrainTrack",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  },
+  "common": {
+    "backToHome": "← Back to Home"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: March 2026",
+    "sections": {
+      "intro": {
+        "heading": "Introduction",
+        "content": "TrainTrack (\"we\", \"our\", or \"us\") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our fitness tracking application."
+      },
+      "dataCollection": {
+        "heading": "Information We Collect",
+        "content": "We collect information you provide directly, including: workout logs (exercises, sets, reps, weights), nutrition data (meals, macros, calories), body measurements and progress photos, account information (email, display name), and device information for offline sync."
+      },
+      "dataUse": {
+        "heading": "How We Use Your Information",
+        "content": "Your data is used to: provide and maintain the TrainTrack service, sync your fitness data across devices, generate progress analytics and personal records, improve our app and develop new features, and send service-related notifications."
+      },
+      "dataStorage": {
+        "heading": "Data Storage & Security",
+        "content": "TrainTrack operates offline-first. Your data is stored locally on your device and optionally synced to our secure cloud servers. We use industry-standard encryption for data in transit and at rest."
+      },
+      "thirdParty": {
+        "heading": "Third-Party Services",
+        "content": "We may use third-party services for analytics, crash reporting, and AI-powered food recognition. These services receive only the minimum data necessary to function."
+      },
+      "rights": {
+        "heading": "Your Rights",
+        "content": "You have the right to: access, correct, or delete your personal data, export your data in a portable format, opt out of optional data collection, and request information about how your data is processed."
+      },
+      "contact": {
+        "heading": "Contact Us",
+        "content": "If you have questions about this Privacy Policy, please contact us at privacy@traintrack.app."
+      }
+    }
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: March 2026",
+    "sections": {
+      "acceptance": {
+        "heading": "Acceptance of Terms",
+        "content": "By accessing or using TrainTrack, you agree to be bound by these Terms of Service. If you do not agree, please do not use the application."
+      },
+      "description": {
+        "heading": "Service Description",
+        "content": "TrainTrack is a fitness tracking application that enables you to log workouts, track nutrition, monitor body progress, and analyze your fitness journey. The app works offline and syncs data across your devices."
+      },
+      "accounts": {
+        "heading": "User Accounts",
+        "content": "You are responsible for maintaining the security of your account credentials. You must provide accurate information and promptly update any changes. You are responsible for all activity under your account."
+      },
+      "acceptableUse": {
+        "heading": "Acceptable Use",
+        "content": "You agree not to: use the service for any unlawful purpose, attempt to gain unauthorized access to our systems, interfere with other users' use of the service, upload malicious content or code, or reverse engineer the application."
+      },
+      "health": {
+        "heading": "Health Disclaimer",
+        "content": "TrainTrack is a fitness tracking tool, not a medical device. Always consult a healthcare professional before starting any exercise or nutrition program. We are not responsible for any injuries or health issues resulting from workouts logged in the app."
+      },
+      "ip": {
+        "heading": "Intellectual Property",
+        "content": "The TrainTrack application, including its design, code, and content, is owned by us and protected by intellectual property laws. Your workout data and personal content remain yours."
+      },
+      "termination": {
+        "heading": "Termination",
+        "content": "We may suspend or terminate your access to TrainTrack at any time for violation of these terms. You may delete your account at any time. Upon termination, your data will be deleted in accordance with our Privacy Policy."
+      },
+      "liability": {
+        "heading": "Limitation of Liability",
+        "content": "TrainTrack is provided \"as is\" without warranties of any kind. We shall not be liable for any indirect, incidental, or consequential damages arising from your use of the service."
+      },
+      "changes": {
+        "heading": "Changes to Terms",
+        "content": "We may update these Terms of Service from time to time. We will notify you of significant changes through the app or via email. Continued use after changes constitutes acceptance."
+      },
+      "contact": {
+        "heading": "Contact Us",
+        "content": "If you have questions about these Terms of Service, please contact us at legal@traintrack.app."
+      }
+    }
+  }
+}
