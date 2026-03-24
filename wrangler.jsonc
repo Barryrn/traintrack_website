@@ -6,9 +6,7 @@
   "observability": {
     "enabled": true
   },
-  // Assets binding for static files — required by OpenNext
   "assets": {
-    "directory": ".open-next/assets",
-    "binding": "ASSETS"
+    "directory": "out"
   }
 }
